@@ -1,0 +1,14 @@
+{
+  "name": ".verify",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.1.1",
+    "pdfjs-dist": "^6.5.438"
+  }
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "variant": "a4-multipage",
+    "format": "A4",
+    "previewPages": 4,
+    "printRootPages": 4,
+    "pdfPages": 4,
+    "printRetried": false,
+    "appHiddenInPrint": true,
+    "pageBox": [
+      793.69,
+      1122.52
+    ],
+    "pdfPageSize": [
+      595,
+      842
+    ],
+    "sizeMismatch": [],
+    "emptyPages": [],
+    "missingMarkers": [],
+    "duplicatedMarkers": [],
+    "outOfBounds": [],
+    "entriesFlowingAcrossPages": [],
+    "bulletsBeforeTitle": [],
+    "headOrphans": [],
+    "orphanHeadings": [],
+    "overflowProblems": [],
+    "footer": "disabled",
+    "warningsShown": false,
+    "roleOrderOk": true,
+    "pdfPath": "D:\\AI\\build\\flowcv\\flowcv_clone\\.verify\\out\\a4-multipage.pdf"
+  },
+  {
+    "variant": "letter-footers",
+    "format": "Letter",
+    "previewPages": 4,
+    "printRootPages": 4,
+    "pdfPages": 4,
+    "printRetried": false,
+    "appHiddenInPrint": true,
+    "pageBox": [
+      816,
+      1056
+    ],
+    "pdfPageSize": [
+      612,
+      792
+    ],
+    "sizeMismatch": [],
+    "emptyPages": [],
+    "missingMarkers": [],
+    "duplicatedMarkers": [],
+    "outOfBounds": [],
+    "entriesFlowingAcrossPages": [],
+    "bulletsBeforeTitle": [],
+    "headOrphans": [],
+    "orphanHeadings": [],
+    "overflowProblems": [],
+    "footer": {
+      "dom": "jordan.avery@example.com1 / 4PRINT TEST",
+      "problems": []
+    },
+    "warningsShown": false,
+    "roleOrderOk": true,
+    "pdfPath": "D:\\AI\\build\\flowcv\\flowcv_clone\\.verify\\out\\letter-footers.pdf"
+  },
+  {
+    "variant": "a4-long-entry",
+    "format": "A4",
+    "previewPages": 4,
+    "printRootPages": 4,
+    "pdfPages": 4,
+    "printRetried": false,
+    "appHiddenInPrint": true,
+    "pageBox": [
+      793.69,
+      1122.52
+    ],
+    "pdfPageSize": [
+      595,
+      842
+    ],
+    "sizeMismatch": [],
+    "emptyPages": [],
+    "missingMarkers": [],
+    "duplicatedMarkers": [],
+    "outOfBounds": [],
+    "entriesFlowingAcrossPages": [
+      "ROLE-01"
+    ],
+    "bulletsBeforeTitle": [],
+    "headOrphans": [],
+    "orphanHeadings": [],
+    "overflowProblems": [],
+    "footer": "disabled",
+    "warningsShown": false,
+    "roleOrderOk": true,
+    "pdfPath": "D:\\AI\\build\\flowcv\\flowcv_clone\\.verify\\out\\a4-long-entry.pdf"
+  },
+  {
+    "variant": "a4-stress",
+    "format": "A4",
+    "previewPages": 9,
+    "printRootPages": 9,
+    "pdfPages": 9,
+    "printRetried": false,
+    "appHiddenInPrint": true,
+    "pageBox": [
+      793.69,
+      1122.52
+    ],
+    "pdfPageSize": [
+      595,
+      842
+    ],
+    "sizeMismatch": [],
+    "emptyPages": [],
+    "missingMarkers": [],
+    "duplicatedMarkers": [],
+    "outOfBounds": [],
+    "entriesFlowingAcrossPages": [],
+    "bulletsBeforeTitle": [],
+    "headOrphans": [],
+    "orphanHeadings": [],
+    "overflowProblems": [],
+    "footer": "disabled",
+    "warningsShown": false,
+    "roleOrderOk": true,
+    "pdfPath": "D:\\AI\\build\\flowcv\\flowcv_clone\\.verify\\out\\a4-stress.pdf"
+  }
+]
